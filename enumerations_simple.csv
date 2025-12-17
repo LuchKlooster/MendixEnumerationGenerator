@@ -1,0 +1,8 @@
+EnumName,ValueName,Caption,LanguageCode
+Status,Active,Active,en_US
+Status,Inactive,Inactive,en_US
+Status,Pending,Pending Approval,en_US
+Priority,Low,Low Priority,en_US
+Priority,Medium,Medium Priority,en_US
+Priority,High,High Priority,en_US
+Priority,Critical,Critical Priority,en_US

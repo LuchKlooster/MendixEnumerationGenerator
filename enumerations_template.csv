@@ -1,0 +1,40 @@
+EnumName,ValueName,Caption,LanguageCode
+Status,Active,Active,en_US
+Status,Active,Actif,fr_FR
+Status,Active,Activo,es_ES
+Status,Inactive,Inactive,en_US
+Status,Inactive,Inactif,fr_FR
+Status,Inactive,Inactivo,es_ES
+Status,Pending,Pending Approval,en_US
+Status,Pending,En attente d'approbation,fr_FR
+Status,Pending,Pendiente de aprobación,es_ES
+Priority,Low,Low Priority,en_US
+Priority,Low,Priorité Basse,fr_FR
+Priority,Low,Prioridad Baja,es_ES
+Priority,Medium,Medium Priority,en_US
+Priority,Medium,Priorité Moyenne,fr_FR
+Priority,Medium,Prioridad Media,es_ES
+Priority,High,High Priority,en_US
+Priority,High,Priorité Haute,fr_FR
+Priority,High,Prioridad Alta,es_ES
+Priority,Critical,Critical Priority,en_US
+Priority,Critical,Priorité Critique,fr_FR
+Priority,Critical,Prioridad Crítica,es_ES
+OrderStatus,New,New Order,en_US
+OrderStatus,New,Nouvelle Commande,fr_FR
+OrderStatus,Processing,Processing,en_US
+OrderStatus,Processing,En traitement,fr_FR
+OrderStatus,Shipped,Shipped,en_US
+OrderStatus,Shipped,Expédié,fr_FR
+OrderStatus,Delivered,Delivered,en_US
+OrderStatus,Delivered,Livré,fr_FR
+OrderStatus,Cancelled,Cancelled,en_US
+OrderStatus,Cancelled,Annulé,fr_FR
+UserRole,Admin,Administrator,en_US
+UserRole,Admin,Administrateur,fr_FR
+UserRole,Manager,Manager,en_US
+UserRole,Manager,Responsable,fr_FR
+UserRole,User,Standard User,en_US
+UserRole,User,Utilisateur Standard,fr_FR
+UserRole,Guest,Guest User,en_US
+UserRole,Guest,Utilisateur Invité,fr_FR

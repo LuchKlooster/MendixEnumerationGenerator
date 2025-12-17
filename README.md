@@ -1,0 +1,2 @@
+# MendixEnumerationGenerator
+Mendix Enumeration Generator
