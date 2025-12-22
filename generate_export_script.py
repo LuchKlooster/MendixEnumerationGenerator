@@ -11,7 +11,15 @@ def generate_export_script():
     """Generate TypeScript code for exporting enumerations from Mendix SDK"""
     
     ts_code = []
-    ts_code.append("// Mendix SDK enumeration export script")
+    ts_code.append("//")       
+    ts_code.append("//      ███  ███  ███")
+    ts_code.append("//      ███▄▄███▄▄███")
+    ts_code.append("//       ███████████")
+    ts_code.append("//       ████▀▀▀████     Mendix SDK enumeration export script")
+    ts_code.append("//       ████   ████")
+    ts_code.append("//     ███████████████")
+    ts_code.append("//     CONVENT SYSTEMS")
+    ts_code.append("//")
     ts_code.append("import { MendixPlatformClient } from 'mendixplatformsdk';")
     ts_code.append("import { domainmodels } from 'mendixmodelsdk';")
     ts_code.append("import { enumerations } from 'mendixmodelsdk';")

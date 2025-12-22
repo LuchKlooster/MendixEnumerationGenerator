@@ -1,4 +1,12 @@
-// Complete example: Export enumerations from Mendix project
+//     
+//      ███  ███  ███
+//      ███▄▄███▄▄███
+//       ███████████
+//       ████▀▀▀████     Complete example: Export enumerations from Mendix project
+//       ████   ████
+//     ███████████████
+//     CONVENT SYSTEMS
+//
 import { exportEnumerations } from './export_mendix_enums';
 
 async function main() {

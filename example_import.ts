@@ -1,4 +1,12 @@
-// Complete example: Import enumerations into Mendix project
+//     
+//      ███  ███  ███
+//      ███▄▄███▄▄███
+//       ███████████
+//       ████▀▀▀████     Complete example: Import enumerations into Mendix project
+//       ████   ████
+//     ███████████████
+//     CONVENT SYSTEMS
+//
 import { createEnumerations } from './<your_filename_from_step3>';
 
 async function main() {

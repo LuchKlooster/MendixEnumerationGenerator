@@ -60,7 +60,15 @@ def generate_mendix_enum_code(csv_file):
     
     # Generate TypeScript code for Mendix SDK
     ts_code = []
-    ts_code.append("// Generated Mendix SDK enumeration creation code")
+    ts_code.append("//")       
+    ts_code.append("//      ███  ███  ███")
+    ts_code.append("//      ███▄▄███▄▄███")
+    ts_code.append("//       ███████████")
+    ts_code.append("//       ████▀▀▀████     Generated Mendix SDK enumeration creation code")
+    ts_code.append("//       ████   ████")
+    ts_code.append("//     ███████████████")
+    ts_code.append("//     CONVENT SYSTEMS")
+    ts_code.append("//")
     ts_code.append("import { enumerations, texts } from 'mendixmodelsdk';")
     ts_code.append("import { MendixPlatformClient } from 'mendixplatformsdk';")
     ts_code.append("")

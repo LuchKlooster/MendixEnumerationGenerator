@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
-Validate CSV file format for Mendix enumeration import
-Checks for common issues before attempting to generate Mendix SDK code
+      ███  ███  ███
+      ███▄▄███▄▄███
+       ███████████
+       ████▀▀▀████     Validate CSV file format for Mendix enumeration import
+       ████   ████     Checks for common issues before attempting to generate Mendix SDK code
+     ███████████████
+     CONVENT SYSTEMS
 """
 import csv
 import sys
