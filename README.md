@@ -47,7 +47,7 @@ Generate Mendix SDK TypeScript code to create enumerations from CSV files, and e
   ```typescript
   `
   **Getting your Personal Access Token:**
-
+  
   1. Go to the Mendix Developer Portal
   2. Navigate to your profile settings
   3. Generate a Personal Access Token
